@@ -1,7 +1,7 @@
 # Hi, Welcome To My Github Profile I'm Ahmet  :sunglasses:
 
 ## Python Developer
-## Data Science/Machine Learning/Artificial Intelligence
+## Data Science/Web Development Backend/
 
 
 <br>

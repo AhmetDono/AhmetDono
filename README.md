@@ -1,8 +1,3 @@
-# Hi, Welcome To My Github Profile I'm Ahmet  :sunglasses:
-
-## C# Asp.NET MVC/Python Developer
-## Web Development Backend/Data Science/
-
 
 <br>
 <br>

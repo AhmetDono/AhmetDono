@@ -1,5 +1,5 @@
-
-
+<h3>Hello, I'm Ahmet. I'm interested in Web Backend and Artificial Intelligence.
+</h3>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">

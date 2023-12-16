@@ -1,5 +1,5 @@
 # 🪪 Hakkımda:
-Ben Ahmet Bilişim Sistemleri Mühendisliği 3.sınıf öğrencisiyim Web Backend ile ilgileniyorum
+Ben Ahmet Bilişim Sistemleri Mühendisliği 3.sınıf öğrencisiyim Backend ve Web ile ilgileniyorum
 
 # En Son Projem 
 - [Food Delivery Website ](https://github.com/AhmetDono/Food-Delivery-Website)

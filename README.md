@@ -1,8 +1,6 @@
 # 🪪 Hakkımda:
-Ben Ahmet Bilişim Sistemleri Mühendisliği 3.sınıf öğrencisiyim Backend ve Web ile ilgileniyorum
+Ben Ahmet Bilişim Sistemleri Mühendisliği 4.sınıf öğrencisiyim Backend ve Web ile ilgileniyorum
 
-# En Son Projem 
-- [FOOD API](https://github.com/AhmetDono/FOOD-API)
 
 
 # 💻 Diller Ve Teknolojiler:

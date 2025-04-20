@@ -1,5 +1,5 @@
 # 🪪 Hakkımda:
-Ben Ahmet Bilişim Sistemleri Mühendisliği 4.sınıf öğrencisiyim Backend ve Web ile ilgileniyorum
+Ben Ahmet Bilişim Sistemleri Mühendisliği 4.sınıf öğrencisiyim Backend ile ilgileniyorum
 
 
 

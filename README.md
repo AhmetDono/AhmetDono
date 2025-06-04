@@ -17,6 +17,8 @@ Ben Ahmet Bilişim Sistemleri Mühendisliği 4.sınıf öğrencisiyim Backend il
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![OAuth2](https://img.shields.io/badge/OAuth2-3423A6?style=for-the-badge&logo=auth0&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MsSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 
 ## 🌐 Socials:
